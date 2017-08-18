@@ -1,8 +1,8 @@
-package SuperFarmerKuro.dices;
+package SuperFarmer2.dices;
 
-import SuperFarmerKuro.animal.AnimalBase;
+import SuperFarmer2.animal.AnimalBase;
 
-public class RedDice extends DiceRoll{
+public class YellowDice extends DiceRoll {
 
     public int rollADice() {
         return dice.nextInt(12);
@@ -13,15 +13,14 @@ public class RedDice extends DiceRoll{
 
         if (score <= 5)
             result = AnimalBase.RABBIT.getName();
-        else if (score > 5 && score <= 8)
+        else if (score == 6 || score == 7)
             result = AnimalBase.SHEEP.getName();
-        else if (score == 9)
+        else if (score == 8 || score == 9)
             result = AnimalBase.PIG.getName();
         else if (score == 10)
-            result = AnimalBase.HORSE.getName();
+            result = AnimalBase.COW.getName();
         else if (score == 11)
-            result = AnimalBase.FOX.getName();
-        diceRollsCount++;
+            result = AnimalBase.WOLF.getName();
         return result;
     }
 }

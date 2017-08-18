@@ -1,4 +1,4 @@
-package SuperFarmerKuro;
+package SuperFarmer2;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

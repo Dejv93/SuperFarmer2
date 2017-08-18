@@ -1,4 +1,4 @@
-package SuperFarmerKuro.dices;
+package SuperFarmer2.dices;
 
 import java.util.Random;
 

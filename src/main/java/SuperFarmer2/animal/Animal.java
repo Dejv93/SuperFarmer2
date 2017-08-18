@@ -1,10 +1,10 @@
-package SuperFarmerKuro.animal;
+package SuperFarmer2.animal;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public abstract class Animal {
-    int count=0;
+
+    int count =0;
 
     AnimalTradeRules animalTradeRules;
 

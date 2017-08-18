@@ -1,4 +1,4 @@
-package SuperFarmerKuro;
+package SuperFarmer2;
 
 /**
  * Hello world!

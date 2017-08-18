@@ -1,4 +1,4 @@
-package SuperFarmerKuro.animal;
+package SuperFarmer2.animal;
 
 public enum AnimalBase {
     RABBIT("rabbit"),

@@ -1,7 +1,7 @@
-package SuperFarmerKuro;
+package SuperFarmer2;
 
-import SuperFarmerKuro.dices.DiceRoll;
-import SuperFarmerKuro.dices.RedDice;
+import SuperFarmer2.dices.DiceRoll;
+import SuperFarmer2.dices.RedDice;
 
 public class Testowy {
 

@@ -1,8 +1,8 @@
-package SuperFarmerKuro;
+package SuperFarmer2;
 
-import SuperFarmerKuro.animal.AnimalBase;
-import SuperFarmerKuro.dices.DiceRoll;
-import SuperFarmerKuro.dices.YellowDice;
+import SuperFarmer2.animal.AnimalBase;
+import SuperFarmer2.dices.DiceRoll;
+import SuperFarmer2.dices.YellowDice;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

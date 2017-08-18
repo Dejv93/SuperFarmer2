@@ -1,6 +1,4 @@
-package SuperFarmerKuro.animal;
-
-import SuperFarmerKuro.animal.AnimalBase;
+package SuperFarmer2.animal;
 
 import java.util.Map;
 

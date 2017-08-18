@@ -1,4 +1,4 @@
-package SuperFarmerKuro;
+package SuperFarmer2;
 
 import java.util.Random;
 import java.util.Scanner;
