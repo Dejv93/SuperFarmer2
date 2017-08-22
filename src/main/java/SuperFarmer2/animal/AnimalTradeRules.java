@@ -11,5 +11,6 @@ public class AnimalTradeRules {
 
     public Map<AnimalBase, int[]> getViableTrades() {
         return viableTrades;
+        
     }
 }
